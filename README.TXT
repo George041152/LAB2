@@ -41,4 +41,6 @@ can work.
 
 Question#8: It is possible and works fine.
 
-Question
+Question#9: it does not work if i take out the word class.
+
+Question#:
